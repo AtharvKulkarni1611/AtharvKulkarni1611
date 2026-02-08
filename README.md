@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Flutter, Data Structures and Algorithms, Python**
 
-- 📫 How to reach me **atharv.anukul@gmail.com**
+- 📫 How to reach me **atharvkulkarni269@gmail.com**
 
 - ⚡ Fun fact **I Love to Code 😃**
 
