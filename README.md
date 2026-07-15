@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-atharvkulkarni--swe-0077B5?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:atharvkulkarni269@gmail.com">
-    <img src="https://img.shields.io/badge/Email-atharv.anukul@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-atharvkulkarni269@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20%7C%20867%2F1000-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Cert" />
 </p>
