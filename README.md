@@ -1,7 +1,7 @@
 ![MasterHead](https://referbruv.com/wp-content/uploads/2022/05/flutter-banner.png?ezimgfmt=ng:webp/ngcb2 )
 
 <h1 align="center">Hi 👋, I'm Atharv Kulkarni</h1>
-<h3 align="center">Flutter Devloper</h3>
+<h3 align="center">Software Devloper</h3>
 <img align="right"  width="200" 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvkulkarni1611&label=Profile%20views&color=0e75b6&style=flat" alt="atharvkulkarni1611" /> </p>
 
@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvkulkarni1611" alt="atharvkulkarni1611" /></a> </p>
 
-- 🔭 I’m currently working on **Catalog App**
+- 🔭 I’m currently working on **Backend Ai Development**
 
-- 🌱 I’m currently learning **Flutter with DSA**
+- 🌱 I’m currently learning **AI with DSA**
 
-- 💬 Ask me about **Flutter, Data Structures and Algorithms, Python**
+- 💬 Ask me about **System, Data Structures and Algorithms, Python**
 
 - 📫 How to reach me **atharvkulkarni269@gmail.com**
 
