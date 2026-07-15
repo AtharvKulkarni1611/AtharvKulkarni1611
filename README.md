@@ -23,7 +23,7 @@
 - 🏆 AWS Certified Solutions Architect – Associate (Score: **867/1000**)
 - 💡 250+ LeetCode problems solved
 - 🎙️ Founder & President — **Call Of Code** coding club (100+ members, 2022–2024)
-- 📫 Reach me at **atharv.anukul@gmail.com**
+- 📫 Reach me at **atharvkulkarni269@gmail.com**
 
 ---
 
