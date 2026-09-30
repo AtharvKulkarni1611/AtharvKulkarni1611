@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-atharvkulkarni--swe-0077B5?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:atharvkulkarni769@gmail.com">
-    <img src="https://img.shields.io/badge/Email-atharvkulkarni269@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-atharvkulkarni769@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20%7C%20867%2F1000-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Cert" />
 </p>
@@ -23,7 +23,7 @@
 - 🏆 AWS Certified Solutions Architect – Associate (Score: **867/1000**)
 - 💡 250+ LeetCode problems solved
 - 🎙️ Founder & President — **Call Of Code** coding club (100+ members, 2022–2024)
-- 📫 Reach me at **atharvkulkarni269@gmail.com**
+- 📫 Reach me at **atharvkulkarni769@gmail.com**
 
 ---
 
@@ -85,7 +85,7 @@
 
 | Company | Role | Period |
 |---|---|---|
-| **Suryakant Kakade & Associates** | Software Engineer | Aug 2022 – Sep 2024 |
+| **Suryakant Kakade & Associates** | Software Engineer | Jan 2023 – Sep 2025 |
 | **Humancloud** | Software Development Intern | Aug 2022 – Jan 2023 |
 | **Hostin Services Pvt Ltd** | Software Development Intern | Jun 2020 – Jul 2020 |
 
